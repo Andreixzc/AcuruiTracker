@@ -1,0 +1,3 @@
+- Interface W/ Qt creator?
+- Code to read qrcode
+- Code to generate qrcode -> name
