@@ -1,7 +1,0 @@
-pip install qrcode[pil]
-pip install opencv-python pyzbar
-pip install pandas openpyxl xlrd
-pip install PyQt5
-pip install opencv-python
-pip install pyzbar
-pip install sqlite3

@@ -1,5 +1,6 @@
 import csv
 import sqlite3
+from database import setup_database
 
 def populate_database_from_csv(csv_file):
     conn = sqlite3.connect('participants.db')
@@ -29,6 +30,6 @@ def populate_database_from_csv(csv_file):
     conn.commit()
     conn.close()
 
-# Run this function to populate the database from the CSV file
-
-populate_database_from_csv('Data/planilhaComIdade.csv')
+if __name__ == '__main__':
+    setup_database()
+    populate_database_from_csv('Data/planilhaComIdade.csv')
