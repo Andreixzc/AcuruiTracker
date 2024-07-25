@@ -1,101 +1,139 @@
-Category: A - Sub 15
-Arthur Vieira Arcebispo Léo Teixeira: 1:30:56
-Bianca Beatrice Gontijo Marini: 1:30:57
-Heitor Vieira Arcebispo Léo Teixeira: 1:30:58
-João Paulo Santos Couto: 1:30:59
-POLYANNA COELHO BORDONI: 1:31:01
+Ranking by Age and Gender:
 
-Category: B - 16-19
-Barbara Mairins Stehling: 1:30:56
-João Guilherme Pedrosa de Oliveira: 1:30:59
+Category: A - Sub 15 Masculino
+Arthur Vieira Arcebispo Léo Teixeira: 1:47:18
+Heitor Vieira Arcebispo Léo Teixeira: 1:47:20
+João Paulo Santos Couto: 1:47:20
 
-Category: C - 20-24
+Category: A - Sub 15 Feminino
+POLYANNA COELHO BORDONI: 1:47:22
 
-Category: D - 25-29
-Brenda vitória generoso: 1:30:57
-Claudio Bastos: 1:30:58
+Category: B - 16-19 Masculino
+João Guilherme Pedrosa de Oliveira: 1:47:20
 
-Category: E - 30-34
-Ana Paula Alves Costa: 1:30:53
-Andréia Vidigal Simões: 1:30:55
-Brunno Mark Mascarenhas Costa: 1:30:57
-Romulo Gomes Dias: 1:31:02
-Sylvia Cury Coste: 1:31:02
-Talisson Eduardo de Souza: 1:31:02
-Vinícius Luiz Pedrosa Mendanha: 1:31:02
+Category: B - 16-19 Feminino
+Barbara Mairins Stehling: 1:47:18
 
-Category: F - 35-39
-Camila de Oliveira Fernandes: 1:30:57
-Jéssica Gonçalves Fernández Árias: 1:30:59
-Luiza Pinheiro Alves da Silva: 1:31:00
-Luís Fernando Gurgel e Souza: 1:31:00
-raffaelly Rodrigues: 1:31:01
-RAQUEL FAZENDEIRO CÂNDIDO BRITO: 1:31:01
-WASHINGTON LUIZ DA CONCEIÇÃO FIRMO: 1:31:04
+Category: C - 20-24 Masculino
 
-Category: G - 40-44
-Adalmir Araújo Moreira: 1:30:52
-Ana Paula Rodrigues: 1:30:54
-Diego de Arvelos Nicolau: 1:30:58
-Leila Cristina Do Nascimento e Silva: 1:30:59
-Regiane Moreira Ribeiro: 1:31:01
-Renato Melo Ferreira: 1:31:01
-Rodrigo Vieira Teixeira: 1:31:02
+Category: C - 20-24 Feminino
 
-Category: H - 45-49
-Anderson Joaquim Dominitini: 1:30:54
-Dennis Magno dos Santos: 1:30:58
-Guilherme Lages Savassi Rocha: 1:30:58
-Erico Tonucci Neto: 1:30:58
-Juliana Santos Botelho: 1:30:59
-LEONARDO SANTOS BORDONI: 1:30:59
-PLINIO SANTANA SANTOS: 1:31:01
+Category: D - 25-29 Masculino
+Claudio Bastos: 1:47:19
 
-Category: I - 50-54
-Angela Machado Batista Vieira: 1:30:55
-Cássio da Cunha Ibiapina: 1:30:57
-Luciana Monteiro Barbosa: 1:31:00
-Moacyr Mascarenhas Motta Miranda: 1:31:00
-Riccardo Marini da Silva Gontijo: 1:31:01
-Ricardo Ibiapina: 1:31:01
+Category: D - 25-29 Feminino
+Brenda vitória generoso: 1:47:18
 
-Category: J - 55-59
-Alberto Ramos Neto: 1:30:52
-Aldo Américo de Azevedo Neto: 1:30:53
-ANDREA GRABE GUIMARAES: 1:30:54
-Claudia Martins de Faria: 1:30:58
-Gerson de Almeida Gonçalves: 1:30:58
-Homero Nogueira Guimarães: 1:30:59
-José Luiz Gonçalves Furst Filho: 1:30:59
-MARCIO SIGAUD FERREIRA FILHO: 1:31:00
-Nely Maria Santos de Castro: 1:31:00
-Roberto Carlos Barbosa Carvalho: 1:31:01
-Rodrigo Peixoto Ferreira: 1:31:01
-Sérgio Bezerra: 1:31:02
+Category: E - 30-34 Masculino
+Brunno Mark Mascarenhas Costa: 1:47:19
+Julio Cezar Almeida Henriques: 1:47:21
+Romulo Gomes Dias: 1:47:23
+Talisson Eduardo de Souza: 1:47:23
+Vinícius Luiz Pedrosa Mendanha: 1:47:24
 
-Category: K - 60-64
-Antonio Faim: 1:30:56
-Gilmar Khouri Rossi: 1:30:58
-Jorge Antonio Smicelato: 1:30:59
-Ivan de Araujo Simoes: 1:30:59
-Marcelo Germano Oliveira: 1:31:00
-Odete Soares Coelho: 1:31:00
-Ramon Marçal da Silva: 1:31:01
-Vanesca de Mello Ramos: 1:31:02
+Category: E - 30-34 Feminino
+Ana Paula Alves Costa: 1:47:17
+Andréia Vidigal Simões: 1:47:18
+Sylvia Cury Coste: 1:47:23
 
-Category: L - 65-69
+Category: F - 35-39 Masculino
+Luís Fernando Gurgel e Souza: 1:47:21
+WASHINGTON LUIZ DA CONCEIÇÃO FIRMO: 1:47:26
 
-Category: M - 70-74
+Category: F - 35-39 Feminino
+Jéssica Gonçalves Fernández Árias: 1:47:20
+Luiza Pinheiro Alves da Silva: 1:47:21
+raffaelly Rodrigues: 1:47:22
+RAQUEL FAZENDEIRO CÂNDIDO BRITO: 1:47:22
+Paula de mello costa: 1:47:22
 
-Category: N - 75-80
+Category: G - 40-44 Masculino
+Adalmir Araújo Moreira: 1:47:16
+Diego de Arvelos Nicolau: 1:47:19
+Igor de Matos Monteiro: 1:47:20
+Renato Melo Ferreira: 1:47:22
+Rodrigo Vieira Teixeira: 1:47:23
 
-Category: O - 80-84
+Category: G - 40-44 Feminino
+Ana Paula Rodrigues: 1:47:18
+Leila Cristina Do Nascimento e Silva: 1:47:21
 
-Category: P - 85-89
+Category: H - 45-49 Masculino
+Anderson Joaquim Dominitini: 1:47:18
+Dennis Magno dos Santos: 1:47:19
+Cristiano Carvalho Gloria: 1:47:19
+Erico Tonucci Neto: 1:47:19
+Guilherme Lages Savassi Rocha: 1:47:20
+Marco Tulio Saldanha dos Anjos: 1:47:21
+PLINIO SANTANA SANTOS: 1:47:22
+Tarcisio Mesquita Monteiro: 1:47:23
 
-Category: Q - 90-94
+Category: H - 45-49 Feminino
+Juliana Santos Botelho: 1:47:20
+Lidiane Magalhães lemos: 1:47:21
 
-Category: R - 95-99
+Category: I - 50-54 Masculino
+Cássio da Cunha Ibiapina: 1:47:19
+Moacyr Mascarenhas Motta Miranda: 1:47:21
+Ricardo Ibiapina: 1:47:23
+
+Category: I - 50-54 Feminino
+Angela Machado Batista Vieira: 1:47:18
+Luciana Monteiro Barbosa: 1:47:21
+
+Category: J - 55-59 Masculino
+Alberto Ramos Neto: 1:47:17
+Aldo Américo de Azevedo Neto: 1:47:17
+Gerson de Almeida Gonçalves: 1:47:19
+Homero Nogueira Guimarães: 1:47:20
+José Luiz Gonçalves Furst Filho: 1:47:20
+MARCIO SIGAUD FERREIRA FILHO: 1:47:21
+Roberto Carlos Barbosa Carvalho: 1:47:23
+Sérgio Bezerra: 1:47:23
+Rodrigo Peixoto Ferreira: 1:47:23
+
+Category: J - 55-59 Feminino
+Claudia Martins de Faria: 1:47:19
+Nely Maria Santos de Castro: 1:47:22
+
+Category: K - 60-64 Masculino
+Antonio Faim: 1:47:18
+Gilmar Khouri Rossi: 1:47:19
+Jorge Antonio Smicelato: 1:47:20
+Ivan de Araujo Simoes: 1:47:20
+Marcelo Germano Oliveira: 1:47:21
+Ramon Marçal da Silva: 1:47:22
+
+Category: K - 60-64 Feminino
+Odete Soares Coelho: 1:47:22
+Vanesca de Mello Ramos: 1:47:23
+
+Category: L - 65-69 Masculino
+
+Category: L - 65-69 Feminino
+
+Category: M - 70-74 Masculino
+
+Category: M - 70-74 Feminino
+
+Category: N - 75-80 Masculino
+
+Category: N - 75-80 Feminino
+
+Category: O - 80-84 Masculino
+
+Category: O - 80-84 Feminino
+
+Category: P - 85-89 Masculino
+
+Category: P - 85-89 Feminino
+
+Category: Q - 90-94 Masculino
+
+Category: Q - 90-94 Feminino
+
+Category: R - 95-99 Masculino
+
+Category: R - 95-99 Feminino
 
 Category: PCD
-
